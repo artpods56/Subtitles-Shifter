@@ -1,6 +1,11 @@
 # Subtitles-Shifter
 Small program that will help synchronizing subtitles with your movie.
 
+# Installation
+1. Enter the folder where you want program to be downloaded.
+2. Open terminal and paste this command.  `git clone https://github.com/artpods56/Subtitles-Shifter`
+3. Hit enter and voilà! 
+
 # Command line options
 `python subtitles_shifter.py --help`
 
