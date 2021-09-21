@@ -95,7 +95,7 @@ def run(args=None):
 def parse_args():
     desc = """Subtitles Shifter
 This is a small program that I wrote to help myself 
-with the synchronization of subtitles in movies
+with the synchronization of subtitles in movies.
 
 Check readme.md for example usage."""
     parser = argparse.ArgumentParser(description=desc,formatter_class=argparse.RawDescriptionHelpFormatter)
